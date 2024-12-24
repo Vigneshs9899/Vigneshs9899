@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vigneshs9899
+- 👀 Interested in web development and AI solutions.
+- 🌱 Currently learning React JS.
+- 💼 Open to collaborating on innovative tech projects.
+- 📫 Reach me at vigneshsaravanan.dev@gmail.com | LinkedIn (https://www.linkedin.com/in/vignesh-s-a9987623b/)
