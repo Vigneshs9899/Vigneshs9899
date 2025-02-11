@@ -2,4 +2,6 @@
 - 👀 Interested in web development.
 - 🌱 Currently learning React JS.
 - 💼 Open to collaborating on innovative tech projects.
-- 📫 Reach me at vigneshsaravanan.dev@outlook.com | LinkedIn (https://www.linkedin.com/in/vignesh-s-a9987623b/) | Portfolio (https://portfolio-vigneshs-projects-2379e2bb.vercel.app/)
+- 📫 Reach me at vigneshsaravanan.dev@outlook.com
+- LinkedIn ( https://www.linkedin.com/in/vignesh-s-a9987623b/ )
+- Portfolio ( https://portfolio-vigneshs-projects-2379e2bb.vercel.app/ )
