@@ -2,5 +2,5 @@
 - 👀 Interested in web development.
 - 💼 Open to collaborating on innovative tech projects.
 - 📫 Reach me at vigneshsaravanan.dev@outlook.com
-- 💬 LinkedIn ( https://www.linkedin.com/in/vignesh-s-a9987623b/ )
-- 🌐 www.vignehs.codes
+- 💬 LinkedIn ( https://www.linkedin.com/in/vigneshs9899/ )
+- 🌐 www.vignesh.codes
