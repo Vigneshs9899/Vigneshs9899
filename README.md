@@ -2,15 +2,20 @@
 
 Aspiring Cloud & DevOps Engineer
 
+🎓 MSc Computer Science  
+☁ Azure AZ-900 Certified  
+☁ AWS Cloud Practitioner  
+
 Currently learning:
 - Linux
-- Git & GitHub
 - Docker
+- CI/CD
 - Microsoft Azure
+- Infrastructure as Code
 
 Projects:
 - DevOps Learning Notes
-- Linux Command Practice
+- Linux Commands Practice
 
 Goal:
 Transition into Cloud / DevOps roles.
