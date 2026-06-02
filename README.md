@@ -101,7 +101,7 @@ Features:
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://linkedin.com/in/vigneshs9899
 - Email: vigneshsaravanan.dev@outlook.com
 
 ---
