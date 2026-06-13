@@ -1,5 +1,38 @@
-Hi, I'm Vignesh.
+# Hi, I'm Vignesh 👋
 
-Full Stack Developer from Chennai.
+## Python Backend Developer
 
-I enjoy building web applications using Python, Flask, JavaScript, SQL Server, and PostgreSQL.
+I build backend applications and REST APIs using Python, Flask, and PostgreSQL.
+
+### Tech Stack
+
+* Python
+* Flask
+* PostgreSQL
+* SQLAlchemy
+* REST APIs
+* Docker
+* Linux
+* Azure
+* Git & GitHub
+
+### Currently Working On
+
+* Workforce Management System
+* Backend Authentication & Authorization
+* Dockerized Applications
+* Azure Deployments
+
+### Learning Goals
+
+* FastAPI
+* Advanced PostgreSQL
+* Docker & Containers
+* Azure Cloud Services
+* Backend System Design
+
+### Connect With Me
+
+* LinkedIn
+* GitHub
+* Portfolio Website
