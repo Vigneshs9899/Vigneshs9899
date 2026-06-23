@@ -33,6 +33,6 @@ I build backend applications and REST APIs using Python, Flask, and PostgreSQL.
 
 ### Connect With Me
 
-* LinkedIn
-* GitHub
-* Portfolio Website
+* LinkedIn (https://www.linkedin.com/in/vigneshs9899/)
+* GitHub (https://github.com/Vigneshs9899)
+* Portfolio Website (https://vignesh-dev-red.vercel.app/)
